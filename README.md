@@ -29,5 +29,10 @@ PCOSense Companion is a Python + Streamlit-based web application that assists in
 | Deployment   | Streamlit Cloud or Localhost               |
 
 ---
+## Contact
+For any queries or suggestions, feel free to reach out:
+- **Name**: Vedant Nikam
+- **Email**: [nikam.vedant05@gmail.com]
+- **GitHub**: [https://github.com/Vednik123](https://github.com/Vednik123)
 
 
